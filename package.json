@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DinhCEO/mongodb#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "koa": "^2.5.1"
   }
 }
